@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+    <person>
+        <firstName>John</firstName>
+        <lastName>Doe</lastName>
+    </person>
+    <person>
+        <firstName>Jane</firstName>
+        <lastName>Smith</lastName>
+    </person>
+    <person>
+        <firstName>Pedro</firstName>
+        <lastName>Belmino</lastName>
+    </person>
+    <!-- Adicione mais pessoas conforme necessário -->
+</persons>
