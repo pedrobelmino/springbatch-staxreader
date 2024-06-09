@@ -1,4 +1,3 @@
-Claro! Aqui está uma sugestão de README para o projeto [springbatch-staxreader](https://github.com/pedrobelmino/springbatch-staxreader):
 
 ```markdown
 # Spring Batch STAX Reader
@@ -29,18 +28,6 @@ Este projeto é um exemplo de uso do Spring Batch com STAX Reader para processar
 
 ### application.properties
 
-Configure as propriedades do Spring Batch e os caminhos dos arquivos de entrada e saída no arquivo `application.properties`.
-
-```properties
-# Configurações do Spring Batch
-spring.batch.job.names=exampleJob
-
-# Caminho do arquivo XML de entrada
-input.file.path=src/main/resources/input/data.xml
-
-# Caminho do arquivo de saída
-output.file.path=src/main/resources/output/output.txt
-```
 
 ## Execução do Projeto
 
